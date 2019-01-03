@@ -26,3 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.pxcex.IGMusic
+Version: 0.0
+Section: Tweaks
+Maintainer: Beni
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.pxcex.IGMusic.deb
+Size: 58.728
+Description: hell yeah
+Name: Old Package
+Author: pxcex
+Depiction: https://benignwn.github.io/benignwn/depictions/?p=com.pxcex.IGMusic
